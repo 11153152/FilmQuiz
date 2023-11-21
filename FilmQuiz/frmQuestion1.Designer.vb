@@ -43,9 +43,9 @@ Partial Class btnQuestion
         Me.frmQuestion1.Location = New System.Drawing.Point(237, 47)
         Me.frmQuestion1.Margin = New System.Windows.Forms.Padding(11, 0, 11, 0)
         Me.frmQuestion1.Name = "frmQuestion1"
-        Me.frmQuestion1.Size = New System.Drawing.Size(638, 42)
+        Me.frmQuestion1.Size = New System.Drawing.Size(830, 42)
         Me.frmQuestion1.TabIndex = 0
-        Me.frmQuestion1.Text = "In what year was Star Wars created ?"
+        Me.frmQuestion1.Text = "In what year was the original Star Wars created ?"
         '
         'PictureBox1
         '
