@@ -88,7 +88,7 @@ Partial Class frmMain
         'txtPlayerName
         '
         Me.txtPlayerName.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtPlayerName.Location = New System.Drawing.Point(307, 368)
+        Me.txtPlayerName.Location = New System.Drawing.Point(301, 368)
         Me.txtPlayerName.Name = "txtPlayerName"
         Me.txtPlayerName.Size = New System.Drawing.Size(192, 29)
         Me.txtPlayerName.TabIndex = 6
