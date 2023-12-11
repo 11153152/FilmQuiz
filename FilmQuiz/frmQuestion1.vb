@@ -22,4 +22,12 @@
     Private Sub RadioButton1_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton1.CheckedChanged
 
     End Sub
+
+    Private Sub PictureBox2_Click(sender As Object, e As EventArgs) Handles PictureBox2.Click
+
+    End Sub
+
+    Private Sub btnAnswer2_CheckedChanged(sender As Object, e As EventArgs) Handles btnAnswer2.CheckedChanged
+
+    End Sub
 End Class

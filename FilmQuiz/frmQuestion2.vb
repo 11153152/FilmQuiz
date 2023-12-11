@@ -20,4 +20,8 @@
 
         Me.Hide()
     End Sub
+
+    Private Sub btnAnswer1_CheckedChanged(sender As Object, e As EventArgs) Handles btnAnswer1.CheckedChanged
+
+    End Sub
 End Class

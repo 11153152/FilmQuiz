@@ -1,9 +1,7 @@
 ﻿Public Class frmHighScore
-    Private Sub IstHighiScore_SelectedIndexChanged(sender As Object, e As EventArgs) Handles IstHighiScore.SelectedIndexChanged
 
-    End Sub
 
-    Public Sub dosScore()
+    Public Sub doScore()
         If playerScore < 1 Then
             lblMessage.Text = "Sorry your Score was not good enough
         " OrElse
@@ -21,5 +19,13 @@
 
     Private Sub btnQuit_Click(sender As Object, e As EventArgs) Handles btnQuit.Click
         Application.Exit()
+    End Sub
+
+    Private Sub IstHighScore_SelectedIndexChanged(sender As Object, e As EventArgs) Handles IstHighScore.SelectedIndexChanged
+
+    End Sub
+
+    Private Sub lblMessage_Click(sender As Object, e As EventArgs) Handles lblMessage.Click
+
     End Sub
 End Class
