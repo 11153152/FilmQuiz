@@ -14,4 +14,8 @@
     Private Sub frmQuestion1_Click(sender As Object, e As EventArgs) Handles frmQuestion1.Click
 
     End Sub
+
+    Private Sub btnNext_Click(sender As Object, e As EventArgs) Handles btnNext.Click
+
+    End Sub
 End Class
