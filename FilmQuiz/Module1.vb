@@ -1,4 +1,4 @@
 ﻿Module Module1
-    Public PlayerName As String
-    Public PlayerScore As Integer
+    Public playerName As String
+    Public playerScore As Integer
 End Module

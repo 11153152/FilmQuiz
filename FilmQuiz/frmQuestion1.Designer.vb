@@ -113,7 +113,7 @@ Partial Class btnQuestion
         '
         'btnNext
         '
-        Me.btnNext.Location = New System.Drawing.Point(730, 525)
+        Me.btnNext.Location = New System.Drawing.Point(764, 522)
         Me.btnNext.Name = "btnNext"
         Me.btnNext.Size = New System.Drawing.Size(170, 53)
         Me.btnNext.TabIndex = 7
