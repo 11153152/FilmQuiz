@@ -14,4 +14,21 @@
     Private Sub btnNext_Click(sender As Object, e As EventArgs) Handles btnNext.Click
 
     End Sub
+
+    Private Sub PictureBox2_Click(sender As Object, e As EventArgs) Handles PictureBox2.Click
+
+    End Sub
+
+    Private Sub btnAnswer1_CheckedChanged(sender As Object, e As EventArgs) Handles btnAnswer1.CheckedChanged
+        If btnAnswer1.Checked Then
+            playerScore = playerScore + 1
+
+        End If
+        frmHighScore.Show()
+
+
+        Me.Hide()
+
+
+    End Sub
 End Class
